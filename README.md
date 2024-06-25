@@ -66,3 +66,14 @@
   
 </div>
 
+
+---
+# Тестовые артефакты
+-  [ТЕОРИЯ ТЕСТИРОВАНИЯ]( https://github.com/zvonarevaratest/theory)
+-  [ПРОЕКТИРОВАНИЕ ТЕСТОВ И ТЕСТ-ДИЗАЙН](https://github.com/zvonarevaratest/design)
+-  [ТЕСТИРОВАНИЕ ВЕБ-ПРИЛОЖЕНИЙ](https://github.com/zvonarevaratest/web)
+-  [ТЕСТИРОВАНИЕ API](https://github.com/zvonarevaratest/API)
+-  [РАБОТА С ДАННЫМИ](https://github.com/zvonarevaratest/database)
+-  [ТЕСТИРОВАНИЕ МОБИЛЬНЫХ ПРИЛОЖЕНИЙ](https://github.com/zvonarevaratest/mobile)
+-  [РАБОТА C BASH](https://github.com/zvonarevaratest/git_bash)
+
