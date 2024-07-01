@@ -1,6 +1,6 @@
 # Привет, меня зовут Римма!
 
-[My CV](Rimma_Zvonareva_QA engineer.pdf)
+[My CV](Rimma_Zvonareva_QA_engineer.pdf)
 
 ### 👨‍💻 Обо мне:
 
