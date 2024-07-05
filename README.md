@@ -1,6 +1,6 @@
 # Привет, меня зовут Римма!
 
-[Мое Резюме](Rimma_Zvonareva_QA_engineer.pdf)
+[Мое Резюме](https://docs.google.com/document/d/1J2joX4fzguNUtCxW3FB0QUFCQ10rUb6Q92T0D7hvrSw/edit)
 
 ### 👨‍💻 Обо мне:
 
