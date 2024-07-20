@@ -42,7 +42,7 @@
   </div>
 
 ---
-**Инструменты, которые я занакома и продолжаю изучать:**
+**Инструменты, с которыми я работала:**
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
